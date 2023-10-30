@@ -2,7 +2,7 @@
 One click Get Offsets Like Gname Guobect Gworld Etc for pubgm Farlight and more Games
 
 # IOS Cheat Auto Dump Tool
-Thanks to https:://t.me/Cheatbot_owner For sharing Usefull tool
+Thanks to [CHEATBOT] (https:://t.me/Cheatbot_owner) For sharing Usefull tool
 
 # Supported Games : 
 -PUBGM GL , KR , VN, TW, BGMI
