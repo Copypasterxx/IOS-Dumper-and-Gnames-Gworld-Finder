@@ -1,41 +1,62 @@
-# IOS-Dumper-and-Gnames-Gworld-Finder
-One click Get Offsets Like Gname Guobect Gworld Etc for pubgm Farlight and more Games
+<div align="center">
+  <a href="https://t.me/cheatbot_tele/" target="_blank" rel="noreferrer">
+    <img src="https://botxd.online/cheatbot.svg" alt="cheatbot" width="50" height="50"/>
+  </a>
+</div>
 
-# IOS Cheat Auto Dump Tool
-Thanks to [CHEATBOT] (https:://t.me/Cheatbot_owner) For sharing Usefull tool
+<h1 align="center">IOS Cheat Auto Dump Tool</h1>
 
-# Supported Games : 
--PUBGM GL , KR , VN, TW, BGMI
--Farlight 84
--ARK: Survival Evolved
--Dead by Daylight
--Distyle
--Apex Legends
--eFootball PES
+<h3 align="center">Thanks to <a href="https://t.me/Cheatbot_owner">CHEATBOT</a> for sharing a useful tool</h3>
 
-# Dumped Offsets:
--GNameFunction
--GNameData
--GWorldFunction
--GWorldData
--LineOfSightTo_Func
--GUObjectArray
+<h3 align="left">Supported Games:</h3>
 
-# Features:
--Dumps Offsets Mentioned above
--Dumps Sdk.h
--Dumps ObjOjects
--Dumps Game Header Files
--Generate Func Names Json script
--Pattern Scanning to Find Offsets
+<ul>
+  <li>PUBGM GL, KR, VN, TW, BGMI</li>
+  <li>Farlight 84</li>
+  <li>ARK: Survival Evolved</li>
+  <li>Dead by Daylight</li>
+  <li>Distyle</li>
+  <li>Apex Legends</li>
+  <li>eFootball PES</li>
+</ul>
 
-# Changelogs:
--Added Farlight84
--Fixed Json File loading issue
--Increase Start time
+<h3> Dumped Offsets:</h3>
 
-# Usage: inject Dylib in any Pubgm ipa and Run , Follow instructions on screen
+<ul>
+  <li>GNameFunction</li>
+  <li>GNameData</li>
+  <li>GWorldFunction</li>
+  <li>GWorldData</li>
+  <li>LineOfSightTo_Func</li>
+  <li>GUObjectArray</li>
+</ul>
 
-# Join Telegram Channel for Updates
-Telegram @CheatBot_Tele
-By @CheatBot_Owner
+<h3>Features:</h3>
+
+<ul>
+  <li>Dumps Offsets Mentioned above</li>
+  <li>Dumps Sdk.h</li>
+  <li>Dumps Objects</li>
+  <li>Dumps Game Header Files</li>
+  <li>Generate Func Names Json script</li>
+  <li>Pattern Scanning to Find Offsets</li>
+</ul>
+
+<h3>Changelogs:</h3>
+
+<ul>
+  <li>Added Farlight84</li>
+  <li>Fixed Json File loading issue</li>
+  <li>Increase Start time</li>
+</ul>
+
+<h3>Usage:</h3>
+
+<ul>
+  <li>inject Dylib in any Pubgm IPA and Run</li>
+  <li> Follow instructions on screen</li>
+  </ul>
+
+<p>Join Telegram Channel for Updates</p>
+
+<p>Telegram <a href="https://t.me/CheatBot_Tele">@CheatBot_Tele</a></p>
