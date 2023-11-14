@@ -7,6 +7,7 @@
 <h1 align="center">IOS Cheat Auto Dump Tool</h1>
 
 <h3 align="center">Thanks to <a href="https://t.me/Cheatbot_owner">CHEATBOT</a> for sharing a useful tool</h3>
+<h3 align="center">~~NOTE :- This Tool Discontinued,<a href="https://t.me/Cheatbot_owner">Contact Here</a> For Enquiry~~</h3>
 
 <h3 align="left">Supported Games:</h3>
 
